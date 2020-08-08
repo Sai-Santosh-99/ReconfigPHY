@@ -1,7 +1,7 @@
 # Intelligent & Reconfigurable Wireless Physical Layer (PHY)
 Source Code for Reconfigurable &amp; Intelligent Wireless Physical Layer (PHY)
 
-- To replicate the MAB, synthesize the .cpp files in the 'HLS Files' folder using Vivalo HLS with the following parameters:
+- To replicate the MAB, synthesize the .cpp files in the 'HLS Files' folder using Vivado HLS with the following parameters:
     1) Board: ZC706 without daughter board
     2) Clock period: 20ns
 
