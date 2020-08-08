@@ -7,4 +7,4 @@ Source Code for Reconfigurable &amp; Intelligent Wireless Physical Layer (PHY)
 
 - To replicate the PHY, dump the .v files in the 'Verilog PHY Files' folder using Vivado IP Packager.
 
-- To replicate Dynamic Partial Reconfiguration, run the provided TCL files in Vivado.
+- To replicate Dynamic Partial Reconfiguration, run the provided TCL files in Vivado, while following the tutorial given in the 'Tutorial PDF' folder.
