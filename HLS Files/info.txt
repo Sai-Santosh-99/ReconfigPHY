@@ -1,0 +1,4 @@
+Synthesize the files using Vivado HLS with the following parameters:
+
+  Board- ZC706
+  Period- 20ns
